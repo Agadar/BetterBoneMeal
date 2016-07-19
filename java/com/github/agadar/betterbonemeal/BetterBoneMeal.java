@@ -26,6 +26,6 @@ public class BetterBoneMeal
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
-		MinecraftForge.EVENT_BUS.register(new HandlerOnBonemeal());
+		MinecraftForge.EVENT_BUS.register(new HandlerOnBoneMeal());
 	}
 }

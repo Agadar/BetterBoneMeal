@@ -11,7 +11,7 @@ import net.minecraftforge.event.entity.player.BonemealEvent;
 import net.minecraftforge.fml.common.eventhandler.Event.Result;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-public class HandlerOnBonemeal 
+public class HandlerOnBoneMeal 
 {
 	@SubscribeEvent 
 	public void onBoneMealUse(BonemealEvent event) 
