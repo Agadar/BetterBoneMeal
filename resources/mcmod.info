@@ -1,0 +1,18 @@
+[
+{
+  
+"modid": "betterbonemeal",
+  
+"name": "BetterBoneMeal",
+  
+"description": "This mod makes bone meal usable on cacti, sugar canes, and nether warts.",
+  
+"version": "${version}",
+  
+"mcversion": "${mcversion}",
+  
+"authorList": ["Agadar"]
+, 
+"url":""
+}
+]
