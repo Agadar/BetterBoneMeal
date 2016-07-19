@@ -16,12 +16,6 @@ public class HandlerOnBonemeal
 	@SubscribeEvent 
 	public void onBoneMealUse(BonemealEvent event) 
 	{
-		// If we're not server-side, ignore this.
-		//if (!event.world.isRemote)
-		//{
-		//	return;
-		//}
-		
 		// Retrieve the block position and the block itself from the event.
 		BlockPos blockPos = event.pos;
 		Block block = event.block.getBlock();
