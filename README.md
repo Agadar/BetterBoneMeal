@@ -8,6 +8,6 @@ Have you ever tried to use bone meal on cacti, sugar canes, or nether warts, and
 
 ## Links
 
-[Minecraft forum thread]()
+[Minecraft forum thread](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2713323-betterbonemeal)
 
 [Project on CurseForge](http://minecraft.curseforge.com/projects/betterbonemeal) 
